@@ -22,6 +22,13 @@
 - Oracle 10g Adm.: http://gcoronelc.blogspot.pe/2018/03/oracle-database-1og-adm1.html
 - Oracle SQL y PLSQL: http://gcoronelc.blogspot.pe/2011/02/libros-de-oracle.html
 
+# RECURSOS DEL CURSO
+
+- Esquema Eureka: http://gcoronelc.blogspot.com/2014/11/creacion-del-esquema-eureka.html
+- Herramientas a utilizar: http://gcoronelc.blogspot.com/2014/11/oracle-sql-introduccion.html
+- Consultas Básicas: http://gcoronelc.blogspot.com/2014/11/oracle-sql-consultas-basicas.html
+
+
 
 # RECURSOS RECOMENDADOS
 
