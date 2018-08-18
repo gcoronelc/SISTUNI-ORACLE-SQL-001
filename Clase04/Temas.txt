@@ -1,0 +1,4 @@
+- Creación de esquemas
+- Vistas
+- Rollup y Cube
+
