@@ -61,6 +61,8 @@ GROUP BY c.chr_sucucodigo;
 
 
 
+
+
 SELECT *
 FROM EUREKA.cuenta C
 JOIN EUREKA.movimiento M ON c.chr_cuencodigo = m.chr_cuencodigo;
